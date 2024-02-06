@@ -1,0 +1,20 @@
+{
+  "name": "day-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "latestCommit.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.0.3",
+    "jest": "^29.7.0",
+    "mocha": "^10.2.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "chai-http": "^4.4.0"
+  }
+}
